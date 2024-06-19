@@ -110,18 +110,4 @@ public class SSOTests {
         var logoutButton = driver.findElement(By.xpath("//a[text()='Logout']"));
         logoutButton.click();
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
